@@ -8,11 +8,15 @@ git clone https://github.com/alejoquintecar/brm-dev-jr-frontend.git
 
 cd brm-dev-jr-frontend.git
 
-- 🏬 Instala las dependencias
+- Instala las dependencias
 
 npm install O yarn install
 
-- 🎮 [Playground](https://play.vuetifyjs.com/)
+- Ejecuta el proyecto en modo desarrollo
+
+npm run dev # o yarn dev
+
+- 
 - 💬 [Discord](https://community.vuetifyjs.com)
 
 ## 💿 Install
