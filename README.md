@@ -10,14 +10,16 @@ cd brm-dev-jr-frontend.git
 
 - Instala las dependencias
 
-npm install O yarn install
+npm install  O  yarn install
 
 - Ejecuta el proyecto en modo desarrollo
 
-npm run dev # o yarn dev
+npm run dev  O  yarn dev
 
 - 
-- 💬 [Discord](https://community.vuetifyjs.com)
+- Portafolio
+
+https://drive.google.com/drive/folders/1JtHGozmVquQbpXzFSwY5p3pdydLwklol?usp=sharing
 
 ## 💿 Install
 
