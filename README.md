@@ -2,9 +2,12 @@
 
 ## ❗️ Pasos de instalación
 
-- 📄 [Docs](https://vuetifyjs.com/)
-- 🚨 [Issues](https://issues.vuetifyjs.com/)
+- 📄 Clona el repositorio
+git clone https://github.com/alejoquintecar/brm-dev-jr-frontend.git
+cd brm-dev-jr-frontend.git
 - 🏬 [Store](https://store.vuetifyjs.com/)
+Instala las dependencias
+npm install O yarn install
 - 🎮 [Playground](https://play.vuetifyjs.com/)
 - 💬 [Discord](https://community.vuetifyjs.com)
 
