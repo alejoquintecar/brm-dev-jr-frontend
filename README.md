@@ -16,7 +16,6 @@ npm install  O  yarn install
 
 npm run dev  O  yarn dev
 
-- 
 - Portafolio
 
 https://drive.google.com/drive/folders/1JtHGozmVquQbpXzFSwY5p3pdydLwklol?usp=sharing
