@@ -41,3 +41,6 @@ El enrutamiento fue organizado con el objetivo de mantener una estructura simple
 Este archivo reúne funciones útiles y sencillas que ayudan a validar tipos de datos y detectar si un valor está vacío. Además, incluye una alerta tipo toast (alertToast) basada en SweetAlert, lista para usarse desde cualquier parte de la aplicación.
 
 
+## 🗃️ Capturas Prueba Tecnica
+
+https://drive.google.com/drive/folders/1JtHGozmVquQbpXzFSwY5p3pdydLwklol?usp=sharing
